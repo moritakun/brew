@@ -63,3 +63,13 @@
 
 * git初期設定
   * cat ~/.gitconfig
+
+## brewのgitバージョンを最新化する場合
+* brewのgitをバージョンアップ
+  ```text
+  brew upgrade git
+  ```
+* シェルの再起動
+  ```text
+  exec $SHELL -l
+  ```

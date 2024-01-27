@@ -58,3 +58,5 @@ macOSのパッケージ管理ソフト（パッケージマネージャ）
 
 * 古いformulaeを削除
   * brew cleanup
+* brewのセキュリティ状態確認
+  * brew doctor
